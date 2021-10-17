@@ -1,0 +1,3 @@
+! Reddit popup notification subscribe spam
+||www.reddit.com##div[data-popper-reference-hidden="false"]
+||assets.bwbx.io/s3/fence/fortress-client/*
