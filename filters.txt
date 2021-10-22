@@ -3,5 +3,5 @@
 ! Homepage: https://github.com/lpar/filters
 
 ! Reddit popup notification subscribe spam
-||www.reddit.com##div:matches-attr("id"="/popup-/"))
+reddit.com#?#div:has(> button[data-testid="subredditNotificationButton"])
 ||assets.bwbx.io/s3/fence/fortress-client/*
