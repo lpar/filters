@@ -3,5 +3,5 @@
 ! Homepage: https://github.com/lpar/filters
 
 ! Reddit popup notification subscribe spam
-||www.reddit.com##div[data-popper-reference-hidden="false"]
+||www.reddit.com##div[data-popper-reference-hidden]
 ||assets.bwbx.io/s3/fence/fortress-client/*
