@@ -5,3 +5,4 @@
 ! Reddit popup notification subscribe spam
 reddit.com#?#div:has(> button[data-testid="subredditNotificationButton"])
 ||assets.bwbx.io/s3/fence/fortress-client/*
+##div.onesignal-slidedown-container
