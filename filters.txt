@@ -6,6 +6,10 @@
 reddit.com#?#div:has(> button[data-testid="subredditNotificationButton"])
 ||assets.bwbx.io/s3/fence/fortress-client/*
 ##div.onesignal-slidedown-container
+! Annoying Guardian "this is not a paywall" banner
 theguardian.com###bottom-banner
-washingtonpost.com###qa-modal-body
+! Disable all scripts on Washington Post because they keep trying to bypass filter rules by putting everything in their scripts
+||*.*^$script,domain=washingtonpost.com
+@@||washingtonpost.com^$jsinject
 washingtonpost.com###leaderboard-wrapper
+||*.*^$script,domain=www.latimes.com
