@@ -13,3 +13,5 @@ theguardian.com###bottom-banner
 @@||washingtonpost.com^$jsinject
 washingtonpost.com###leaderboard-wrapper
 ||*.*^$script,domain=www.latimes.com
+||*.*^$script,domain=timesfreepress.com
+@@||timesfreepress.com^$jsinject
