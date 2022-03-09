@@ -15,3 +15,6 @@ washingtonpost.com###leaderboard-wrapper
 ||*.*^$script,domain=www.latimes.com
 ||*.*^$script,domain=timesfreepress.com
 @@||timesfreepress.com^$jsinject
+! Cookie banner found on discogs.com
+###onetrust-consent-sdk > div.onetrust-pc-dark-filter.ot-fade-in:first-child
+###onetrust-banner-sdk
