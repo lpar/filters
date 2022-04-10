@@ -18,3 +18,7 @@ washingtonpost.com###leaderboard-wrapper
 ! Cookie banner found on discogs.com
 ###onetrust-consent-sdk > div.onetrust-pc-dark-filter.ot-fade-in:first-child
 ###onetrust-banner-sdk
+! CT Post overlay remover
+||*.*^$script,domain=www.ctpost.com
+ctpost.com##div.fancybox-overlay
+ctpost.com##html,body:style(overflow: visible!important;)
