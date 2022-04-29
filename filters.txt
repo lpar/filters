@@ -22,3 +22,4 @@ washingtonpost.com###leaderboard-wrapper
 ||*.*^$script,domain=www.ctpost.com
 ctpost.com##div.fancybox-overlay
 ctpost.com##html,body:style(overflow: visible!important;)
+||*.*^$script,domain=rollcall.com
